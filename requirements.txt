@@ -2,3 +2,4 @@ streamlit
 fpdf
 xsstrike
 sqlmap
+dirb
