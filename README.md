@@ -1,8 +1,7 @@
-# 🎫 Support tickets template
+# 👀 PentPeek
 
-A simple Streamlit app showing an internal tool that lets you create, manage, and visualize support tickets. 
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://support-tickets-template.streamlit.app/)
+PentPeek is an advanced tool developed based on Dynamic Application Security Testing (DAST), a method that identifies security vulnerabilities in web applications by simulating real-world attacks.
+With PentPeek, users provide a URL and select specific vulnerabilities to test. The tool then runs automated scans and generates comprehensive reports, including mitigation strategies. This process simplifies threat detection and enhances reliability, making it easier to secure web applications.
 
 ### How to run it on your own machine
 
