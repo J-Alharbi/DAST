@@ -162,7 +162,6 @@ if st.button("Start Scan"):
                     for line in f:
                         pdf.multi_cell(0, 10, line)
 
-            # Include XSS Report
             if vulnerability_found['xss'] and os.path.exists(xsstrike_report_file):
                 pdf.add_page()
                 pdf.multi_cell(0, 10, "XSS Report")
